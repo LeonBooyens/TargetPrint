@@ -40,3 +40,7 @@ This app creates custom PDF targets to help you determine and verify your rifle'
 - The retinal target is for scope/view alignment only — do not shoot at it for zeroing; use the small targets.
 
 *Happy zeroing — tight groups and clean kills!*
+
+## Contact Details
+
+- If you require any additional support please email me at leon.booyens@gmail.com
